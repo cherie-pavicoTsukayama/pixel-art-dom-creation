@@ -9,12 +9,12 @@ body {
     flex-wrap: wrap;
     justify-content: center;
     margin: 0;
-    width: 100%;
-    max-width: 800px;
+    width: 50%;
+    max-width: 900px;
     border: 2px solid black;
 }
 .height {
-    height: 100px;
+    height: 120px;
 }
 
 .red {
