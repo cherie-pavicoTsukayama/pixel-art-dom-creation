@@ -1,37 +1,46 @@
 .col-1 {
-    width: 8%;
+    width: 6%;
 }
 
 .col-2 {
-    width: 16%;
+    width: 12%;
 }
 .col-3 {
-    width: 24%;
+    width: 18%;
 }
 .col-4 {
-    width: 32%;
+    width: 24%;
 }
 .col-5 {
-    width: 40%;
+    width: 30%;
 }
 .col-6 {
-    width: 48%;
+    width: 36%;
 }
 .col-7 {
-    width: 56%;
+    width: 42%;
 }
 .col-8 {
-    width:64%;
+    width:48%;
 }
 .col-9 {
-    width: 72%;
+    width: 54%;
 }
 .col-10 {
-    width: 80%;
+    width: 60%;
 }
 .col-11 {
-    width: 88%;
+    width: 66%;
 }
 .col-12 {
-    width: 96%;
+    width: 72%;
+}
+.col-13 {
+    width: 78%;
+}
+.col-14 {
+    width: 84%;
+}
+.col-15 {
+    width: 90%;
 }

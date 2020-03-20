@@ -16,6 +16,17 @@ body {
 .height {
     height: 120px;
 }
+.block-height{
+    height: 100%;
+}
+.row-container {
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.white{
+    background-color: white;
+}
 
 .red {
     background-color: red;
