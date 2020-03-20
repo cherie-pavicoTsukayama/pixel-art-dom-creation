@@ -1,5 +1,42 @@
+body {
+    display:flex;
+    justify-content: center;
+    margin: 0;
+}
+.container {
+    display: flex;
+    flex-wrap: nowrap;
+    margin: 0;
+    max-width: 900px;
+}
+.height {
+    height: 100px;
+}
+
 .red {
     background-color: red;
 }
 
+.orange {
+    background-color: orange;
+}
 
+.yellow {
+    background-color: yellow;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+.purple {
+    background-color: purple;
+}
+
+.black {
+    background-color: black;
+}

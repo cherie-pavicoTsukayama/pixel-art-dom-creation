@@ -1,3 +1,8 @@
-var body = document.querySelector('body');
+var body = document.body;
 
-body.setAttribute('class', 'red');
+var section = document.createElement('section');
+var div = document.createElement('div');
+
+var redSection = section.setAttribute('class', 'container ' + 'height ' + 'col-12');
+
+body.appendChild(section);
