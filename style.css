@@ -1,13 +1,17 @@
 body {
-    display:flex;
+    display: flex;
+    flex-wrap: wrap;
     justify-content: center;
     margin: 0;
 }
 .container {
     display: flex;
-    flex-wrap: nowrap;
+    flex-wrap: wrap;
+    justify-content: center;
     margin: 0;
-    max-width: 900px;
+    width: 100%;
+    max-width: 800px;
+    border: 2px solid black;
 }
 .height {
     height: 100px;
